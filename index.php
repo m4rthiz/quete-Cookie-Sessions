@@ -7,7 +7,7 @@
         <figcaption class="caption">
           <h3>Pecan nuts</h3>
           <p>Cooked by Penny !</p>
-          <a  href="?add_to_cart=46" class="btn btn-primary">
+          <a  href="?add_to_cart=Pecan_nuts" class="btn btn-primary">
             <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Add to cart
           </a>
         </figcaption>
@@ -19,7 +19,7 @@
         <figcaption class="caption">
           <h3>Chocolate chips</h3>
           <p>Cooked by Bernadette !</p>
-          <a  href="?add_to_cart=36" class="btn btn-primary">
+          <a  href="index.php?add_to_cart=Chocolate_chips" class="btn btn-primary">
             <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Add to cart
           </a>
         </figcaption>
@@ -31,7 +31,7 @@
         <figcaption class="caption">
           <h3>Chocolate cookie</h3>
           <p>Cooked by Bernadette !</p>
-          <a  href="?add_to_cart=58" class="btn btn-primary">
+          <a  href="index.php?add_to_cart=Chocolate_cookie" class="btn btn-primary">
             <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Add to cart
           </a>
         </figcaption>
@@ -43,7 +43,7 @@
         <figcaption class="caption">
           <h3>M&M's&copy; cookies</h3>
           <p>Cooked by Penny !</p>
-          <a  href="?add_to_cart=32" class="btn btn-primary">
+          <a  href="index.php?add_to_cart=MM's_cookies" class="btn btn-primary">
             <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> Add to cart
           </a>
         </figcaption>
